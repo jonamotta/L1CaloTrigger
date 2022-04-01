@@ -1,4 +1,6 @@
 <use name="FWCore/ParameterSet"/>
+<use name="PhysicsTools/ONNXRuntime"/>
+<use name="CommonTools/MVAUtils"/>
 <use   name="clhep"/>
 
 <export> 
